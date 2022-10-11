@@ -41,8 +41,12 @@ Blast:
   RI: DM9F0423F013 
   Database: nr 
  
- Top hit Accession: AFV39909.1; Percentage Identity: 63.42%	
+Top hit Accession: AFV39909.1; Percentage Identity: 63.42%	
   The percentage Identity is less than 70%, which means that a novel virus has been Identified. 
+  
+ For the future thios couldbe doen systematically with SQL program.
+ 
+
   
 
  

@@ -57,3 +57,30 @@ where run_id in ( 'ERR1543746', 'ERR1543747', 'ERR1543748', 'ERR1543749', 'ERR15
 
 Exported obtained results into csv file 
 "C:\Users\Keren\OneDrive - University of Toronto\桌面\UT\Year 3\BCB330\Initial Query\Query of AccList against Serratus.csv"
+
+For first step analysis, sorted the csv file by n_read and looked at the top hits
+Best hits by family are:  
+  Betaflexiviridae
+    Betaflexiviridae-1
+
+  Tombusviridae
+    Tombusviridae-14
+
+  Partitiviridae
+    Partitiviridae-46 / Partitiviridae-28 / Partitiviridae-18
+
+  Amalgaviridae
+    Amalgaviridae-1
+
+  Dicistroviridae-6
+    Dicistroviridae-6 / Dicistroviridae-13
+
+
+    
+    
+
+
+  
+  
+
+

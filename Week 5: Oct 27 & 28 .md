@@ -64,7 +64,7 @@ For first step analysis, sorted the csv file by n_read and looked at the top hit
 Best hits by family are:    
     
 ### 1. Betaflexiviridae  
-  `Betaflexiviridae-1`, after BLAST against `nr` (date: `221028`), found that 66% identity to potato virus t `(AFV39900.1)`
+  `Betaflexiviridae-1`, after BLAST against `nr` (date: `221028`), found that 66% identity to potato virus t `(AFV39900.1)`  
   input：  
   Serratus `SRR7630401` rdrp-contig retrieved  
         
@@ -122,9 +122,9 @@ Sequence ID: `AFV39903.1` Length: `451` Number of Matches: `1`
 ```
       
 ### 2. Tombusviridae   
-  Tombusviridae-14, after BLAST against `nr` (date: `221028`), found that possible contamination could have occured.     
-  input：      
-  Serratus `SRR10193437` rdrp-contig retrieved  
+  Tombusviridae-14, after BLAST against `nr` (date: `221028`), found that possible contamination could have occured.       
+  input：        
+  Serratus `SRR10193437` rdrp-contig retrieved    
     
 ```
 >SRR10193437 NODE_1_length_1497_cov_3.231039
@@ -157,9 +157,9 @@ VGKLQRRGVDPKFCLSLTKMCMAHWLKVKTDDEWFEIKPEIIHGSLSQGGLGVPDGNGRVWKLDRDLELVDVEEFRVTLP
 Many different viruses was obtained in results, suggesting possible contamination.  
   
 ### 3. Partitiviridae  
-  Partitiviridae-46, after BLAST against `nr` (date: `221028`), found that high percentage identity of around `80-99%` to `Cannabis sativa partitivirus` is coomon among result. Confirming infection by the partivirus. 
-  Input:  
-  Serratus `ERR2040410` rdrp-contig retrieved 
+  Partitiviridae-46, after BLAST against `nr` (date: `221028`), found that high percentage identity of around `80-99%` to `Cannabis sativa partitivirus` is coomon among result. Confirming infection by the partivirus.    
+  Input:    
+  Serratus `ERR2040410` rdrp-contig retrieved   
     
 ```
 >ERR2040410 NODE_1_length_1681_cov_1139.852869
@@ -241,9 +241,9 @@ Sbjct  607  RTLFISDPAE  616
 ```
   
 ### 4. Amalgaviridae
-  Amalgaviridae-1, after BLAST against `nr` (date: `221028`), found that 100% identity to `	Cannabis sativa amalgavirus 1`, confriming infection
-  Input:  
-  Serratus `SRR10600876` rdrp-contig retrieved   
+  Amalgaviridae-1, after BLAST against `nr` (date: `221028`), found that 100% identity to `	Cannabis sativa amalgavirus 1`, confriming infection  
+  Input:    
+  Serratus `SRR10600876` rdrp-contig retrieved     
   
 ```
 >SRR10600876 NODE_1_length_1675_cov_196.584682
@@ -323,10 +323,10 @@ Query  541  GVEHVATYMDHFEEFMR  557
 Sbjct  930  GVEHVATYMDHFEEFMR  946
 ```
   
-### 5. Dicistroviridae-6
-  Dicistroviridae-11, after BLAST against `nr` (date: `221028`), found that 41% identity to `Picornavirales sp. `. Potential novel virus?
-  Input:  
-  Serratus `SRR10600885` rdrp-contig retrieved   
+### 5. Dicistroviridae-6  
+  Dicistroviridae-11, after BLAST against `nr` (date: `221028`), found that 41% identity to `Picornavirales sp. `. Potential novel virus?  
+  Input:    
+  Serratus `SRR10600885` rdrp-contig retrieved     
   
 ```
 >SRR10600885 NODE_1_length_1268_cov_1908.794829

@@ -1,8 +1,8 @@
-Oct 19th, 2022
-
-Created and Submitted proposl
-
-Introduction
+### Oct 19th, 2022  
+{Keren}  
+Created and Submitted proposl  
+   
+#### Introduction  
 Since its legalization in Canada and other countries around the world, the marijuana industry
 has been blossoming and becoming an important part of the economy. As we all know, marijuana
 refers to the dried leaves, flowers, stems, and seeds from the hemp plant, Cannabis sativa
@@ -15,18 +15,19 @@ project seeks to computationally sequence and analyze some viruses or viroids th
 plant disease and even plant death in Cannabis sativa. The research question to be answered is:
 What are the viruses infecting Cannabis sativa? This could be helpful for the Marijuana industry
 in terms of preventing the spread of Cannabis viruses, minimizing plant loss, and maximizing the
-profit for the Cannabis sativa grown.
-Goals of Project
+profit for the Cannabis sativa grown.  
+   
+#### Goals of Project
 The primary goal of this research project is to identify novel RNA virus infecting Cannabis
 by retrieving raw sequence data from the National Center for Biotechnology Information (NCBI)
-1
 Sequence Read Archive (SRA) or similar database, and to search for virus-like sequences using
 bioinformatic tools such as Serratus.io. Also, existing sequences of known viruses that infect
 Cannabis could be utilized as a query to search for novel viruses based on percentage identity.
 The purpose of these goals is to expand the knowledge on known marijuana viruses to help hemp
 growers prevent production loss, and to expand the related database to serve as a foundation for
-future attempts at Cannabis virus prevention and surveillance.
-Background
+future attempts at Cannabis virus prevention and surveillance.  
+   
+#### Background
 Cannabis sativa, also known as marijuana, is a herbaceous plant with an Eastern Asian
 origin. It has been a crucial component to traditional medicine, food, oil and industrial fiber for
 quite a long time (Andre et al., 2016). However, recent interest in the plant is more revolved
@@ -41,8 +42,8 @@ the total comprised 58% dried Cannabis, 24% edible Cannabis and 17% Cannabis ext
 (Health Canada, 2022). This is paralleled by the expansion of agricultural land that is dedicated
 for Cannabis farming. Particularly, a 2021 report by Health Canada mentions that indoor and
 outdoor Cannabis farming area is about 1,756,642m2 and 7,130,900m2
-respectively (2022).
-2
+respectively (2022).  
+   
 From the statistics mentioned above, it is evident that Cannabis sativa is truly an imperative
 crop in the Canadian market. Thus, efficient disease identification and management in the hemp
 plant would really help to increase crop yield and reduce profit loss. According to the
@@ -54,8 +55,9 @@ data for Cannabis itself is currently unavailable due to the lack of research, i
 imagine that this herbaceous plant is also significantly impacted by viral pathogens.
 Consequently, this study will attempt to contribute to the understudied topic of Cannabis virus,
 help with the establishment of disease regulation in hemp, and aid the development of prevention
-strategies.
-Preliminary Literature Review
+strategies.  
+   
+#### Preliminary Literature Review
 There are limited reports or articles that present confirmed cases of marijuana viruses, but
 in the literatures that do exist, the most frequently mentioned viruses include: the Beet Curly Top
 Virus (BCTV), the Cannabis Cryptic Virus (CCV), the Tobacco Streak Virus (TSV), the Lettuce
@@ -64,7 +66,6 @@ Firstly, according to an article published in Frontiers in Agronomy, one of the 
 reported in hemp is the BCTV, a member of the genus Curtovirus in the family Geminiviridae
 (Chiginsky et al., 2021). This virus mostly infects sugar beets, but could also be found in other
 species such as tomato, pepper, spinach, etc. It is a DNA virus that has a circulative propagative
-3
 way of transmission, that is, transmission by a vector species. Particularly, BCTV is only known
 to be transmitted through the beet leafhopper insect. The leafhopper is not affected by the virus,
 but becomes a carrier and transfers it to the plants they feed on through salivary glands. The
@@ -85,7 +86,7 @@ the presence of another virus, namely the Hemp Streak Virus (HSV), but no sympto
 be identified with the presence of CCV alone. Researchers predicted that CCV could be able to
 worsen or alter the viral symptoms of HSV in hemp plants. It might also be able to interact with
 other types of pathogens like fungi to trigger disease symptoms.
-4
+    
 Furthermore, the LCV is a positive-sense, single-stranded RNA virus and a member of
 the Closteroviridae family (Hadad et al., 2019). The main characteristics of LCV infected plants
 include nutrition deprivation, interveinal chlorosis, brittleness, and occasional necrosis. As
@@ -96,17 +97,18 @@ Lastly, unlike the other ones mentioned, the HLVd is an RNA-based viroid as oppo
 a virus since it is missing a protein coat (Warren et al., 2019). This viroid is most frequently
 observed in hop plants, and is often transmitted through agricultural tools and equipment such as
 pruners. Symptoms of Cannabis plants infected with HLVd range from malformation or chlorosis
-of leaves, to stunting and brittle stems.
+of leaves, to stunting and brittle stems.  
+    
 While knowledge of Cannabis virus that could be extracted from the current literature is
 limited, the above information could be used to help with the understanding of the field. It
 provides insight into the research to be done and serves as a basis for this investigation proposal.
 By the end of this study, the hope is to expand the list of marijuana viruses identified and
-enhance the related genomic database.
-Methodology
+enhance the related genomic database.  
+    
+#### Methodology
 To begin with, the NCBI SRA (1) database will be used to identify runs associated with
 Cannabis sativas. As of October 2022, there are a total of around 9000 results, but for the
 purpose of this study, the RNA-seq subset of the SRA will be the main focus. Then, the
-5
 accession ID of the list of raw sequences will be downloaded in a text file. Each run will be
 entered into the Explore RdRP Search tool (2) in Serratus.io (includes runs from 2013-2020), or
 a similar bioinformatic tool for identifying RNA-based viruses. The best matches with alignment

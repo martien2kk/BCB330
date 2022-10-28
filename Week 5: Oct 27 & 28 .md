@@ -63,8 +63,8 @@ Exported obtained results into csv file
 For first step analysis, sorted the csv file by n_read and looked at the top hits  
 Best hits by family are:    
     
- 1. ### Betaflexiviridae  
-    `Betaflexiviridae-1`, after BLAST against `nr` (date: 221028), found that 66% identity to potato virus t `(AFV39900.1)`
+1. ### Betaflexiviridae  
+    `Betaflexiviridae-1`, after BLAST against `nr` (date: `221028`), found that 66% identity to potato virus t `(AFV39900.1)`
     input：  
     Serratus `SRR7630401` rdrp-contig retrieved  
       
@@ -121,10 +121,11 @@ Sequence ID: `AFV39903.1` Length: `451` Number of Matches: `1`
   Sbjct  378  YGYRLGEYLWEYFDNLEDFQAIVRLVIKKKKQLPPAVRRIFETSNGVDFGGEVQE  432
 ```
       
-  2. ### Tombusviridae  
-    Tombusviridae-14, after BLAST against `nr` (date: `221028`), found that possible contamination could have occured.   
-    input：    
-    Serratus `SRR10193437` rdrp-contig retrieved
+2. ### Tombusviridae  
+  Tombusviridae-14, after BLAST against `nr` (date: `221028`), found that possible contamination could have occured.   
+  input：    
+  Serratus `SRR10193437` rdrp-contig retrieved
+    
 ```
 >SRR10193437 NODE_1_length_1497_cov_3.231039
 GGGCTGATGTACATGAATATGTTGGTCGGACGAGAGATATATGATGCCGACTGGAAAAAAGTTTTGGACGAGAGAGGGCCTAACTCGAAGGAGGAGAAGTTTGTGTCTTTCGATCCAGTG
@@ -142,7 +143,7 @@ ATTATTCATGGTAGTTTGAGCCAGGGTGGTTTGGGCGTACCAGATGGGAATGGTAGGGTCTGGAAACTGGATAGGGACCT
 GCTGCTTACTGTACCGAGGACTACGTTGATTTGCTTGAAGAGCAATTAGAAAGGACT
 ```  
   
-  Inputted in ORF Finder and BLASTed against nr  
+Inputted in ORF Finder and BLASTed against nr  
     
 ```
 >lcl|ORF1

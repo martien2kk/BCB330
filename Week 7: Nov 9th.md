@@ -23,5 +23,5 @@ Other Viruses that Infect Cannabis:
 Potential Novel Virus: 
 1. `Betaflexiviridae`; `SRR7630401`; `https://github.com/martien2kk/BCB330/edit/main/Week%205:%20Oct%2027%20&%2028%20.md#1-betaflexiviridae`
   `66%` Identity to `potato virus t`; `AFV39900.1`
-3. `Dicistroviridae`; `SRR10600885`; `https://github.com/martien2kk/BCB330/edit/main/Week%205:%20Oct%2027%20&%2028%20.md#5-dicistroviridae-6`
+2. `Dicistroviridae`; `SRR10600885`; `https://github.com/martien2kk/BCB330/edit/main/Week%205:%20Oct%2027%20&%2028%20.md#5-dicistroviridae-6`
   41% identity to `Picornavirales sp.`; `QDH91489.1` 

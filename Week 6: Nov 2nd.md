@@ -51,7 +51,7 @@ Also suggest identity to many other plants, suggestng contamination
 
 #### 2. Iflaviridae
 
-`Iflaviridae-9`, after BLAST against `nr` (date: `221102`), found that 100% identity to that 100% identity to `	Cannabis cryptic virus`, confriming infection
+`Iflaviridae-9`, after BLAST against `nr` (date: `221102`), found that 100% identity to `Cannabis cryptic virus`, confriming infection
   input：  
   Serratus `SRR10193438` rdrp-contig retrieved
   

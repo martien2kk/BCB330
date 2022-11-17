@@ -30,5 +30,10 @@ Potential Novel Virus:
 ###### Note: forgot to save a file of all the runs and went back to do it on `20221113`
 
 1. Sweet Potato Virus G `RASP4HHP01N`
-Looking at the results, there are many matches with the Sweet Potato Virus G, all with high identities ranging from 99% - 100%
-Submissions are from different countries: China `(e.g: QFZ79327.1)`, Korea `(e.g: QCG75829.1)`, S
+Looking at the results, there are many matches with the Sweet Potato Virus G, all with high identities ranging from 87% - 100%
+Submissions are from different countries: China `(e.g: QFZ79327.1)`, Korea `(e.g: QCG75829.1)`, South Africa `(QVU24909.1)`
+Also from different years ranging from 2014-2021 
+
+However, when looking for the original article, I found that most of these matches are wither unpublished or direct submissions. 
+
+2. 2

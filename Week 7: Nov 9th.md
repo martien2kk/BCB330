@@ -52,3 +52,10 @@ Submissions are most from the Some American countries: Bolivia `(e.g: AFV39903.1
 Also from different years ranging from 2012-2021
 
 Most of these matches are either unpublished or direct submissions. 
+
+3. Dicistroviridae `RCG2HWK0016`
+Looking at the results, there are 2 matches with the 	Picornavirales sp., with identities ranging from 41% - 43%
+Submissions are from China `(e.g: URG14697.1)` and USA `(e.g: QDH91489.1)`
+Also from different years ranging from 2019-2022
+
+

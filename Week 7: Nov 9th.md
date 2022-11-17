@@ -34,13 +34,21 @@ Looking at the results, there are many matches with the Sweet Potato Virus G, al
 Submissions are from different countries: China `(e.g: QFZ79327.1)`, Korea `(e.g: QCG75829.1)`, South Africa `(QVU24909.1)`
 Also from different years ranging from 2014-2021 
 
-However, when looking for the original article, I found that most of these matches are wither unpublished or direct submissions. 
+However, when looking for the original article, I found that most of these matches are either unpublished or direct submissions. 
 
 In general, sweet potato virus G are prevalent among sweet potato crop `(Ipomoea batatas Lam.)` in Asian and South African countries.
 
-2. Betaflexiviridae
+The way of transmission is propagative through insects like aphids.
+
+`Prediction: spread through aphids from sweet potato to weed`
+
+I could find published articles on detection of the `Sweet potato feathery mottle virus` in Cannabis, but not really for the SPVG
+`https://asplantprotection.org/wp-content/uploads/2018/07/96-100.pdf`
+
+2. Betaflexiviridae `RCCTDUJK016`
 Looking at the results, there are many matches with the potato virus t, with identities around 66%
 Submissions are most from the Some American countries: Bolivia `(e.g: AFV39903.1)` and Peru `(BAM16482.1)`
+
 Also from different years ranging from 2012-2021
 
-Most of these matches are wither unpublished or direct submissions. 
+Most of these matches are either unpublished or direct submissions. 

@@ -36,4 +36,11 @@ Also from different years ranging from 2014-2021
 
 However, when looking for the original article, I found that most of these matches are wither unpublished or direct submissions. 
 
-2. 2
+In general, sweet potato virus G are prevalent among sweet potato crop `(Ipomoea batatas Lam.)` in Asian and South African countries.
+
+2. Betaflexiviridae
+Looking at the results, there are many matches with the potato virus t, with identities around 66%
+Submissions are most from the Some American countries: Bolivia `(e.g: AFV39903.1)` and Peru `(BAM16482.1)`
+Also from different years ranging from 2012-2021
+
+Most of these matches are wither unpublished or direct submissions. 

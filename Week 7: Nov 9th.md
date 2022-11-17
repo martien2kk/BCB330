@@ -25,3 +25,10 @@ Potential Novel Virus:
   `66%` Identity to `potato virus t`; `AFV39900.1`
 2. `Dicistroviridae`; `SRR10600885`; `https://github.com/martien2kk/BCB330/edit/main/Week%205:%20Oct%2027%20&%2028%20.md#5-dicistroviridae-6`
   41% identity to `Picornavirales sp.`; `QDH91489.1` 
+
+#### Further Analysis and Literture Review
+###### Note: forgot to save a file of all the runs and went back to do it on `20221113`
+
+1. Sweet Potato Virus G `RASP4HHP01N`
+Looking at the results, there are many matches with the Sweet Potato Virus G, all with high identities ranging from 99% - 100%
+Submissions are from different countries: China `(e.g: QFZ79327.1)`, Korea `(e.g: QCG75829.1)`, S

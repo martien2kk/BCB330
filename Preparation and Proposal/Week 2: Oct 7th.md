@@ -18,7 +18,7 @@ Put in Serratus.io
       Pick: `SRR7630408`; download rdrp from Serratus  
       Species: Cannabis glandular  
        
-Copy Frist Contig from Rdrp.fasta file  
+Copy First Contig from Rdrp.fasta file  
   Copy paste into ORF Finder:  
     ORF start codon to use: "Any sense codon"  
     Sequence  

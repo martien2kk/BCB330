@@ -11,4 +11,10 @@ Exported obtained results into csv file:
 
 Potential Novel virus found from previous weeks: `Dicistroviridae`
 Serratus link: `https://serratus.io/explorer/rdrp?run=SRR10600885`
-![Screenshot of Serratus Search]([https://files.slack.com/files-pri/TV2KYQBQA-F04BFP85PS7/screenshot_from_2022-11-17_14-39-50.png])`(20221115`)
+![Screenshot of Serratus Search]([https://files.slack.com/files-pri/TV2KYQBQA-F04BFP85PS7/screenshot_from_2022-11-17_14-39-50.png])`(20221115)`
+
+Step taken:
+
+- Tried to download fastaq file, but run exceeds the download limit (>5 Gbases)
+- Downloaded the SRA Toolkit
+

@@ -30,3 +30,7 @@ Oracle VM Terminal:
 - Found an alternative: `https://www.ebi.ac.uk/ena/browser/view/SRR10600885`
 - Downloaded `SRR10600885.fastq.gz`
 
+SPAdes:
+- Downloaded SPAdes
+- Tried to assemble `SRR10600885.fastq.g`
+- Failed

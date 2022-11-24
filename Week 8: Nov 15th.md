@@ -17,4 +17,13 @@ Step taken:
 
 - Tried to download fastaq file, but run exceeds the download limit (>5 Gbases)
 - Downloaded the SRA Toolkit
+- Tried to download, Spades, but it only works on Linus
+- Downloaded WSL
+
+Windows Subsystem for Linux:
+1. `Windows + R`
+2. `cmd.exe`
+3. run as administrator
+4. `wsl --install`
+5. restart
 

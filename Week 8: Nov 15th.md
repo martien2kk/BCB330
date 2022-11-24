@@ -20,10 +20,13 @@ Step taken:
 - Tried to download, Spades, but it only works on Linus
 - Downloaded WSL
 
-Windows Subsystem for Linux:
-1. `Windows + R`
-2. `cmd.exe`
-3. run as administrator
-4. `wsl --install`
-5. restart
+Windows Subsystem for Linux is too slow, alternative option: Oracle VM
+
+Oracle VM Terminal:
+- `~/Downloads/sratoolkit.current-ubuntu64/sratoolkit.3.0.1-ubuntu64/bin$ prefetch SRR10600885 `
+- SRR10600885 was downloaded successfully
+- `~/Downloads/sratoolkit.current-ubuntu64/sratoolkit.3.0.1-ubuntu64/bin$ fasterq-dump --split-files SRR10600885`
+- `fasterq-dump quit with error code 3`
+- Found an alternative: `https://www.ebi.ac.uk/ena/browser/view/SRR10600885`
+- Downloaded `SRR10600885.fastq.gz`
 

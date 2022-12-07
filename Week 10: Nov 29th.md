@@ -242,3 +242,21 @@ Query  422  ------TQACESDSEG-----------------ESDGALENEINDRLPDPY  449
                      CE+ SEG                  S  AL   I DR P+PY
 Sbjct  418  LAEFFLDNDCEA-SEGLDEVISRFDTFFDPKKEYSAHALRVNIKDRTPNPY  467
 ```
+
+Node 1 PalmID analysis:
+```
+palmprint:
+
+>NODE_1_length_7297_cov_16729.226821_g0_i0
+TESDYEAFDRSQDAPILAFEILMLRFFNWPEDLIQDYKMIKLWMGCRLGAVAIMRFTGEFGTFFFNTLVNMAFTVMRYHV
+NKESVIAFAGDDMYA
+
+ catalytic motifs:
+
+>NODE_1_length_7297_cov_16729.226821_g0_i0
+   A:262-273(18.8)      B:318-331(21.4)      C:349-356(12.0)
+   TESDYEAFDRSQ    <44> TGEFGTFFFNTLVN  <17> FAGDDMYA  [95]
+   +|+||.+|| ||         |||..||++|||+|       |+|||| .
+   lenDyskFDksq         SGdanTslGNTltn       vsGDDsvv
+Score 62.1, high-confidence-RdRP: high-PSSM-score.reward-DDGGDD.good-segment-length.
+```

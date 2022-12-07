@@ -1,6 +1,8 @@
 ### Nov 29th, 2022
 By: `Keren`
 
+From the previous week, `SRR10600885` file is too larger to assemble and I do not have enough disk space on my virtual machine. Thus, I picked another library with potential novel virus, that is smaller in size. 
+
 Novel Virus Library: `SRR7630408` ; score: `96`; percentage identity: `76`
 
 In Oracle VM:

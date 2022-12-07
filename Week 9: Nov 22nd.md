@@ -39,3 +39,32 @@ Saved results in a csv file:
 ```
 "C:\Users\Keren\OneDrive - University of Toronto\桌面\UT\Year 3\BCB330\Initial Query\List of Distro.csv"
 ```
+Obtained fastq file using SRA Tool kit. 
+
+Downloaded Adapter Remover:
+
+```
+kk@kk-VirtualBox:~/adapterremoval-2.3.1$ AdapterRemoval --file1 SRR10600885_1.fastq --file2 SRR10600885_2.fastq
+```
+
+Results:
+```
+Trimming paired end reads ...
+
+Opening FASTQ file 'SRR10600885_1.fastq', line numbers start at 1
+
+Opening FASTQ file 'SRR10600885_2.fastq', line numbers start at 1
+
+Processed 40,058,796 reads in 4:25.7s; 149,000 reads per second ...
+
+Error reading FASTQ record at line 81049173; aborting:
+
+    invalid FASTQ record; sequence/quality length does not match
+
+Aborting thread due to error.
+
+ERROR: AdapterRemoval did not run to completion;
+
+       do NOT make use of resulting trimmed reads!
+
+```

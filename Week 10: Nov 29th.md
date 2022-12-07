@@ -52,6 +52,23 @@ Processed a total of 34,249,954 reads in 2:56.1s; 194,000 reads per second on av
 5. Use Spades to assembe genome
 ```
 k@kk-VirtualBox:~/SPAdes-3.15.5-Linux/bin$ spades.py -1 SRR7630408_1.fastq -2 SRR7630408_2.fastq --rna -o run1
+
+...
+
+===== Assembling finished. Used k-mer sizes: 33, 49 
+
+ * Assembled transcripts are in /home/kk/SPAdes-3.15.5-Linux/bin/run1/transcripts.fasta
+ * Paths in the assembly graph corresponding to the transcripts are in /home/kk/SPAdes-3.15.5-Linux/bin/run1/transcripts.paths
+ * Hard filtered transcripts are in /home/kk/SPAdes-3.15.5-Linux/bin/run1/hard_filtered_transcripts.fasta
+ * Soft filtered transcripts are in /home/kk/SPAdes-3.15.5-Linux/bin/run1/soft_filtered_transcripts.fasta
+ * Assembly graph is in /home/kk/SPAdes-3.15.5-Linux/bin/run1/assembly_graph.fastg
+ * Assembly graph in GFA format is in /home/kk/SPAdes-3.15.5-Linux/bin/run1/assembly_graph_with_scaffolds.gfa
+
+======= SPAdes pipeline finished.
+
+SPAdes log can be found here: /home/kk/SPAdes-3.15.5-Linux/bin/run1/spades.log
+
+Thank you for using SPAdes!
 ```
 
 

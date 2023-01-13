@@ -18,7 +18,7 @@ As shown above, `ORF1` is roughly divided into 4 RNA domains:
 3. Viral (Superfamily 1) RNA helicase  `976 - 1209`
 4. RNA dependent RNA polymerase  `1340 - 1668`
 
-`\n`
+{\n}
 
 Translated protein sequence of `ORF 24` 
 ```
